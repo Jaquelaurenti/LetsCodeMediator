@@ -1,6 +1,5 @@
-# MediatorSimples
+StarWarsResistenceMediator
+O evento ReportaTraicaoHandler()
 
-
-No Startup.cs  
-services.AddMediatR();
-
+Dispara o Evento ReportaComoTraidor(Rebelde rebelde)
+Dispara o Evento SetaComoTraidor()
